@@ -70,7 +70,7 @@
 
 # 六、实验结果
 
-#### ![实验结果]()
+#### ![实验结果](https://github.com/GuoRuChang-226/JavaShiyanSI/blob/main/24991850da038e6de8eb15fce0484d2.png)
 
 
 # 七、实验感想
